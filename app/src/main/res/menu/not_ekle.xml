@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    //sağ üstte bulunan 3noktalı menüyü oluşturduk.
+    //res -> new directory -> menu klasörünü oluşturduk. new menu resource file içerisinden bu dosyayı oluşturduk.
+    //sonra ise item ekledik.
+    <item android:id="@+id/not_ekle" android:title="Not Ekle"/>
+
+</menu>
